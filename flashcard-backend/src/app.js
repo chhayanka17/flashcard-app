@@ -11,9 +11,9 @@ app.use(cors());
 app.use(express.json());
 
 app.use('/api', flashcardRoutes);
-app.use('/api/progress', progressRoutes);   // ← ADD
-app.use('/api/notes', noteRoutes);          // ← ADD
-app.use('/api/sessions', sessionRoutes);    // ← ADD
+//app.use('/api/progress', progressRoutes);   // ← ADD
+//app.use('/api/notes', noteRoutes);          // ← ADD
+//app.use('/api/sessions', sessionRoutes);    // ← ADD
 
 app.use((err, req, res, next) => {
   console.error(err.stack);
