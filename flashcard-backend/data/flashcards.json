@@ -1,0 +1,17 @@
+[
+  { "question": "What is spaced repetition?", "answer": "A technique that schedules reviews at increasing intervals to improve long-term memory retention.", "category": "Learning", "difficulty": "Easy" },
+  { "question": "What does NLP stand for?", "answer": "Natural Language Processing — AI that enables computers to understand human language.", "category": "AI", "difficulty": "Easy" },
+  { "question": "What is active recall?", "answer": "Actively retrieving information from memory rather than passively reviewing notes.", "category": "Learning", "difficulty": "Easy" },
+  { "question": "What is MongoDB?", "answer": "A NoSQL document-oriented database that stores data in flexible JSON-like documents.", "category": "Database", "difficulty": "Medium" },
+  { "question": "What is Mongoose?", "answer": "An ODM library for MongoDB and Node.js that provides schema-based data modeling.", "category": "Database", "difficulty": "Medium" },
+  { "question": "What is Express.js?", "answer": "A minimal Node.js framework for building APIs and web servers.", "category": "Backend", "difficulty": "Easy" },
+  { "question": "What is a REST API?", "answer": "An architectural style using HTTP methods (GET, POST, PUT, DELETE) to operate on resources.", "category": "Backend", "difficulty": "Medium" },
+  { "question": "What is React?", "answer": "A JavaScript library for building user interfaces using reusable components and a virtual DOM.", "category": "Frontend", "difficulty": "Easy" },
+  { "question": "What is the SM-2 algorithm?", "answer": "A spaced repetition algorithm that calculates optimal review intervals based on user recall performance.", "category": "AI", "difficulty": "Hard" },
+  { "question": "What is dotenv?", "answer": "A Node.js module that loads environment variables from a .env file into process.env.", "category": "Backend", "difficulty": "Easy" },
+  { "question": "What is a neural network?", "answer": "A computational model inspired by the brain, consisting of layers of interconnected nodes that learn from data.", "category": "AI", "difficulty": "Hard" },
+  { "question": "What is the virtual DOM in React?", "answer": "A lightweight copy of the real DOM that React uses to efficiently update only changed elements.", "category": "Frontend", "difficulty": "Medium" },
+  { "question": "What is JWT?", "answer": "JSON Web Token — a compact, self-contained token used for securely transmitting authentication information.", "category": "Security", "difficulty": "Medium" },
+  { "question": "What is the difference between SQL and NoSQL?", "answer": "SQL uses structured tables with fixed schemas; NoSQL uses flexible documents, key-value pairs, or graphs.", "category": "Database", "difficulty": "Medium" },
+  { "question": "What is Node.js?", "answer": "A JavaScript runtime built on Chrome's V8 engine that allows running JavaScript on the server side.", "category": "Backend", "difficulty": "Easy" }
+]
