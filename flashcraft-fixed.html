@@ -1710,7 +1710,7 @@ function startProcessing() {
   if (!text) { showToast('⚠ Please enter some notes first!'); return; }
   resetProcessingUI();
   showSection('processing');
-  fetch('http://localhost:3001/api/generate', {
+  fetch('https://flashcard-app-ubfa.onrender.com/api/generate', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ notes: text })
