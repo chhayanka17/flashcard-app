@@ -30,3 +30,17 @@ An AI-powered Notes-to-Flashcards web application that transforms raw text into 
 | Deployment | Netlify, Render |
 
 ## 📁 Project Structure
+flashcard-app/
+├── index.html              # Frontend
+├── flashcard-backend/      # Node.js backend
+│   ├── server.js
+│   ├── src/
+│   │   ├── app.js
+│   │   ├── routes/
+│   │   ├── controllers/
+│   │   └── services/
+│   └── models/
+└── AINLP/                  # Python NLP server
+├── ai_module.py
+└── requirements.txt
+
