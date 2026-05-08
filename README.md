@@ -11,7 +11,7 @@ An AI-powered Notes-to-Flashcards web application that transforms raw text into 
 - Ansh Singh
 - Aditya Lokhande
 
-> Guided by: Prof. Priya Verma | Shri Shankaracharya Technical Campus, Bhilai
+> Shri Shankaracharya Technical Campus, Bhilai
 
 ## 🚀 Features
 - Paste or upload notes → AI generates flashcards instantly
