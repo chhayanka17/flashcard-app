@@ -3,7 +3,7 @@
 An AI-powered Notes-to-Flashcards web application that transforms raw text into interactive study flashcards using Natural Language Processing.
 
 ## 🌐 Live Demo
-👉 [flashcraftstudio.netlify.app](https://flashcraftstudio.netlify.app)
+👉 [flashcraftstudio.netlify.app](https://flashcard-app-ten-ruddy.vercel.app/)
 
 ## 👥 Team
 - Chhayanka Dabhadker
