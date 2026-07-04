@@ -1,6 +1,6 @@
 const express = require('express');
 const { generateFlashcards } = require('../controllers/flashcardController');
-const Flashcard = require('../models/Flashcard');
+const Flashcard = require('../../models/Flashcard');
 
 const router = express.Router();
 
